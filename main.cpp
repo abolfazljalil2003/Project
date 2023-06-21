@@ -86,7 +86,7 @@ int main()
         r=rand() % n;
         if(matrix[r][c]!=-1){
             matrix[r][c]=-1;
-            cout<<"["<<r+1<<","<<c+1<<"]\n";
+
          countn--;
 
             }
